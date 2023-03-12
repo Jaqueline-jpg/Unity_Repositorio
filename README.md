@@ -20,7 +20,7 @@ Unity e Vuforia fornecem uma solução poderosa para o desenvolvimento de aplica
 Após isso faça o Download do seu banco de dados (target+features).  
 
 <p align="center">
-<img src="img/targetmod.png" width="600" height="450">
+<img src="img/targetmod.png" width="400" height="400">
 </p>
 
 #### Primeiros Passos:
@@ -44,7 +44,7 @@ A imagem abaixo apresenta a ordem que os objetos devem ficar:
 3: Cube (ou o objeto que você escolher)
 
 <p align="center">
-<img src="Img/Sem Título.png">
+<img src="img/semTitulo.png">
 </p>
 
 > ### Rotacionar o objeto
@@ -77,7 +77,7 @@ rotação de classe pública: MonoBehaviour
  Também é necessário incluir o eixo de rotação do seu objeto:
 
  <p align="center">
-<img src="img/configuracaoEixoRotacao.png" width="550" height="180">
+<img src="img/configuracaoEixoRotacao.png">
 </p>
 
 O resultado será o seu objeto rotacionado de forma automática. 
